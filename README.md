@@ -1,4 +1,4 @@
-[whatever]<> FlaskJournalingServer
+
 # Flask Journaling Server
 ### *Based on the ever popular, at least in ***my*** opinion...*
 # My Mental Health Journal
